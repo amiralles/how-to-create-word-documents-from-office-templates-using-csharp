@@ -1,0 +1,14 @@
+c:\users\amiralles\dev\Cartas\Cartas\bin\Debug\Cartas.exe.config
+C:\Users\amiralles\Dev\Cartas\Cartas\obj\Debug\Cartas.csprojResolveAssemblyReference.cache
+C:\Users\amiralles\Dev\Cartas\Cartas\bin\Debug\Docs\demo.docx
+C:\Users\amiralles\Dev\Cartas\Cartas\bin\Debug\Cartas.exe
+C:\Users\amiralles\Dev\Cartas\Cartas\bin\Debug\Cartas.pdb
+C:\Users\amiralles\Dev\Cartas\Cartas\obj\Debug\Cartas.exe
+C:\Users\amiralles\Dev\Cartas\Cartas\obj\Debug\Cartas.pdb
+C:\Users\AMIRALLES\Dev\Cartas\Cartas\Cartas\bin\Debug\Cartas.exe.config
+C:\Users\AMIRALLES\Dev\Cartas\Cartas\Cartas\obj\Debug\Cartas.exe
+C:\Users\AMIRALLES\Dev\Cartas\Cartas\Cartas\bin\Debug\Cartas.exe
+C:\Users\AMIRALLES\Dev\Cartas\Cartas\Cartas\bin\Debug\Cartas.pdb
+C:\Users\AMIRALLES\Dev\Cartas\Cartas\Cartas\obj\Debug\Cartas.csprojResolveAssemblyReference.cache
+C:\Users\AMIRALLES\Dev\Cartas\Cartas\Cartas\obj\Debug\Cartas.pdb
+C:\Users\AMIRALLES\Dev\Cartas\Cartas\Cartas\bin\Debug\Docs\foo.dotx
